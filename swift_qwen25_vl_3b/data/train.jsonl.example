@@ -1,0 +1,2 @@
+{"messages":[{"role":"user","content":"<image>请描述这张商品图，并提取品牌、颜色和主要卖点。"},{"role":"assistant","content":"这是一张商品展示图。品牌是示例品牌，颜色以白色和蓝色为主，主要卖点是轻便、适合日常使用。"}],"images":["D:/LLMmodels/swift_qwen25_vl_3b/data/images/example_001.jpg"]}
+{"messages":[{"role":"user","content":"<image>这张图片里有什么安全隐患？"},{"role":"assistant","content":"图片中地面有杂物堆放，存在绊倒风险；同时电线暴露，存在用电安全隐患。"}],"images":["D:/LLMmodels/swift_qwen25_vl_3b/data/images/example_002.jpg"]}

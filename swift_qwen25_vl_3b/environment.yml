@@ -1,0 +1,8 @@
+name: swift-qwen25vl
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - setuptools
+  - wheel

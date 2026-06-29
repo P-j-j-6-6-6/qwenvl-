@@ -1,0 +1,1 @@
+{"messages":[{"role":"user","content":"<image>请描述这张图片的场景。"},{"role":"assistant","content":"这是一张室内办公场景图片，画面中有桌椅、电脑和照明设备，整体环境整洁明亮。"}],"images":["D:/LLMmodels/swift_qwen25_vl_3b/data/images/example_val_001.jpg"]}
