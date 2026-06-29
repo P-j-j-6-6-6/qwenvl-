@@ -1,0 +1,37 @@
+﻿# Python / cache
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# environments
+.conda-envs/
+.conda-local/
+.venvs/
+venv/
+.env
+
+# HuggingFace / ModelScope cache
+.hf/
+.modelscope/
+
+# datasets and model weights
+datasets/
+Qwen2.5-VL-3B-Instruct/
+Qwen3-Omni-30B-A3B-Instruct/
+
+# large model files
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.gguf
+
+# training outputs
+outputs/
+runs/
+wandb/
+checkpoints/
+checkpoint/
